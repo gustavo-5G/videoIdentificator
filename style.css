@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start,#numberOfObject{
+    font-size: 18px;
+}
+.copy{
+position: fixed;
+color: white;
+bottom: 0;
+width: 100%;
+background-color: #6c757d;
+line-height: 2;
+}
+canvas{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px black;
+}
